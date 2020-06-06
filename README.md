@@ -1,4 +1,4 @@
-# fluttershoppinglist
+# Flutter Shopping List App
 
 A new Flutter application.
 
